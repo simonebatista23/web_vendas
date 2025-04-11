@@ -10,3 +10,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.swiper-button-next,
+.swiper-button-prev {
+  color:#000 !important;
+}
+
